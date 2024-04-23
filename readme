@@ -1,0 +1,6 @@
+## Baixar e Executar o Script
+
+Para baixar e executar o script `template.py` diretamente do repositório GitHub, você pode usar o seguinte comando no PowerShell:
+
+```powershell
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Kozato01/TemplateDE/main/template.py" -OutFile "template.py"; python template.py
